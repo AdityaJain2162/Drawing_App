@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Drawing App</string>
+    <string name="creator_image">creator image</string>
+    <string name="creator_intro">Hi It\'s Abdul Hamid Khatri, an android developer and UI/UX Designer.</string>
+    <string name="whatsapp_image">whatsapp image</string>
+    <string name="instagram_image">instagram image</string>
+    <string name="linkedin_image">linkedin image</string>
+    <string name="close_image">close image</string>
+    <string name="brush_floating_button">brush floating button</string>
+    <string name="creator_about">creator About</string>
+</resources>
